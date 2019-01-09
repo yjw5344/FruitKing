@@ -62,4 +62,4 @@
 ## 프로젝트 결과
 
 컴퓨팅 파워 부족으로 인해 "감"만을 가지고 다변량 회귀분석을 실시!
-![img3](img/process1.png)
+![img3](img/result.png)
